@@ -1,0 +1,7 @@
+options={{ headerShown: false }}
+
+<View style={tw`flex flex-wrap gap-5 px-5`}>
+        <View style={tw`bg-green-700`}>
+          <Text style={tw`text-lg text-white`}>Rent Apartment</Text>
+        </View>
+      </View>
