@@ -18,7 +18,7 @@ const HomeNavOps = () => {
   return (
     <FlatList
         data={data}
-        style={tw`px-5 h-fit`}
+        style={tw`px-5i=p`}
         keyExtractor={(item)=>item.id}
         horizontal
         showsHorizontalScrollIndicator={false}
